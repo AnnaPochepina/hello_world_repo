@@ -2,7 +2,7 @@ services:
   hello-world:
     build: 
       context: https://github.com/AnnaPochepina/hello_world_repo
-      dockerfile: /Dockerfile
+      dockerfile: /Dockerfile1
       
 x-uffizzi:
   ingress:
