@@ -1,5 +1,5 @@
 definitions:
-    environment: &env-var
+  environment: &env-var
       TEST_USER: postgres_test
       TEST_PASSWORD: postgres_test
 
